@@ -1,0 +1,1 @@
+# Simple Restful API for person detector
