@@ -1,1 +1,1 @@
-# Simple Restful API for person detector
+# Simple Restful API for person detector with flask-restful
